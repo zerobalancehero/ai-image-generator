@@ -1,8 +1,2 @@
-Flask
-flask-cors
-torch
-diffusers
-transformers
-Pillow
-gunicorn
-
+gunicorn==23.0.0
+packaging==25.0
